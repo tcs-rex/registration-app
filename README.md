@@ -1,6 +1,6 @@
 # student-registration
 
-A simple app for students to view and register for and view courses available to them. The server was built with Java Spring Boot, the database uses MySQL, and the client was built with React.js.
+In this group project, a simple app has been built for students to view and register for courses available to them. The server was built with Java Spring Boot, the database uses MySQL, and the client was built with React.js.
 
 ## Hosted version:
 
